@@ -1,13 +1,3 @@
----
-layout: post
-title: "2024 Summer Olympics – Paris"
-date: 2025-06-03
-categories: olympics paris2024 sports history
----
-
-> **"2024 Olympics" redirects here.**  
-> For the **Summer Paralympics**, see [2024 Summer Paralympics](#).  
-> For the **Winter Youth Olympics in Gangwon, South Korea**, see [2024 Winter Youth Olympics](#).
 
 # Games of the XXXIII Olympiad – Paris 2024
 
@@ -109,4 +99,83 @@ Despite political and logistical controversies, **Paris 2024** was hailed as a *
 
 
 > Source: [Wikipedia](https://en.wikipedia.org)
+
+
+### 🧾 Entity Description
+
+- **Type:** International Multi-Sport Event  
+- **Official Name:** *Games of the XXXIII Olympiad*  
+- **Dates:** July 26 – August 11, 2024 (Preliminary events began July 24)  
+- **Host City:** Paris, France  
+- **Motto:** _“Games Wide Open”_ (French: _“Ouvrons Grand les Jeux”_)
+
+---
+
+## 🌟 Key Features & Innovations
+
+- **👥 Gender Parity:**  
+  First Olympics with **equal quotas** for male and female athletes — a historic milestone.
+
+- **🎆 Unique Opening Ceremony:**  
+  Held **outside a stadium** for the first time, with a parade of athletes **along the Seine River**.
+
+- **🕺 New Sport:**  
+  **Breaking** (breakdancing) debuted as an official Olympic sport.
+
+- **🏛️ Iconic Venues:**  
+  - Beach volleyball at the **Eiffel Tower Stadium**  
+  - Equestrian at the **Palace of Versailles**  
+  - Fencing & Taekwondo at the **Grand Palais**
+
+- **🌍 Distributed Venues:**  
+  - Events outside Paris included:
+    - **Sailing in Marseille**  
+    - **Surfing in Teahupo'o, Tahiti (French Polynesia)**  
+    - **Football in 16 other cities** across France
+
+---
+
+## 📊 Statistics & Records
+
+| Metric                       | Value                         |
+|-----------------------------|-------------------------------|
+| Participating Nations       | 204 NOCs + EOR + AIN          |
+| Athletes                    | ~10,714                       |
+| Events                      | 329 events in 32 sports       |
+| Tickets Sold (Olympics)     | 9.5 million                   |
+| Tickets (Total incl. Para)  | 12.1 million (record)         |
+| World Records               | 19 new senior world records   |
+| First-Time Medal Nations    | Botswana, Dominica, Guatemala, Saint Lucia |
+| Refugee Olympic Team        | 🥉 First-ever Olympic medal    |
+
+---
+
+## 🥇 Medal Table Highlights (Top 5 Nations)
+
+| Rank | Country         | 🥇 Gold | 🥈 Silver | 🥉 Bronze | 🏅 Total |
+|------|-----------------|---------|-----------|-----------|----------|
+| 1    | United States   | 40      | —         | —         | 126      |
+| 2    | China           | 40      | —         | —         | 91       |
+| 3    | Japan           | 20      | —         | —         | 45       |
+| 4    | Australia       | 18      | —         | —         | 53       |
+| 5    | France 🇫🇷 (Host)| 16      | —         | —         | 64       |
+
+> _Note: Replace "—" with exact counts if available._
+
+---
+
+## 🏆 Notable Athletic Achievements
+
+- 🏊 **Léon Marchand** (France): 4 individual gold medals in swimming.
+- 🤸‍♀️ **Simone Biles** (USA): Returned with multiple golds in artistic gymnastics.
+- 🎾 **Novak Djokovic** (Serbia): Completed career **Golden Slam** with men’s singles gold.
+- 🪂 **Armand 'Mondo' Duplantis** (Sweden): Broke his **own world record** in men’s pole vault.
+- 🚴‍♂️ **France's BMX Podium Sweep:** Historic 1–2–3 finish in men’s BMX racing (first since 1924).
+
+---
+
+## 💰 Budget
+
+- **Estimated Cost:** €9 billion  
+- **Funding Sources:** Largely **privately funded**
 
